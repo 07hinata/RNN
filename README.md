@@ -8,5 +8,6 @@ Tento repozitář obsahuje data a zdrojové kódy použité pro bakalářskou pr
 - modely.pdf – výsledky a vizualizace z souboru modely.ipynb
 
 ## Poznámky
-- Notebook `modely.ipynb` neobsahuje výstupy z důvodu kompatibility s GitHubem. Vizualizace a výsledky jsou dostupné v souboru `modely.pdf`.
 - Zdroj dat `dly-0-203-0-11651-T.csv` je Český hydrometeorologický ústav (CHMI). Soubor byl stažen z webových stránek: https://opendata.chmi.cz/meteorology/climate/historical/data/daily/. Soubor nebyl přejmenován pro lepší dohledatelnost původního souboru.
+- Notebook `modely.ipynb` neobsahuje výstupy z důvodu kompatibility s GitHubem. Vizualizace a výsledky jsou dostupné v souboru `modely.pdf`.
+- Soubor `modely.pdf` není v náhledu GitHubu správně zobrazen. Pro správné zobrazení jej lze stáhnout.
