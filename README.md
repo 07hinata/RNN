@@ -1,3 +1,8 @@
+# Projekt – Analýza časových řad s využitím rekurentních neuronových sítí
+Tento repozitář obsahuje data a zdrojové kódy použité pro bakalářskou práci zaměřenou na analýzu časových řad s využitím rekurentních neuronových sítí (RNN).
+---
+## 📁 Struktura projektu
+
 # Projekt – data použitá pro bakalářskou práci s názvem Analýza časových řad s využitím rekurentních neuronových sítí
 
 - cisteni_dat.ipynb – příprava a čištění dat
