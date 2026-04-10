@@ -1,4 +1,4 @@
-# Projekt – data pro bakalářskou práci - Analýza časových řad s využitím rekurentních neuronových sítí
+# Projekt – data použitá pro bakalářskou práci s názvem Analýza časových řad s využitím rekurentních neuronových sítí
 
 - cisteni_dat.ipynb – příprava a čištění dat
 - modely_bez_vystupu.ipynb – modely (bez outputů)
